@@ -37,3 +37,45 @@
     transform: translateY(0px)
   }
 }
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.mt5 {
+  margin-top: 10vh;
+}
+
+.small{
+  font-size: medium;
+  font-weight: 400;
+}
+
+.col-width{
+  width : 15vw;
+}
+
+.danger {
+  background-color : red;
+  color : white;
+  border-radius: 10px;
+  padding: 5px;
+  margin: 5px;
+}
+
+.info {
+  background-color : lightseagreen;
+  color : white;
+  border-radius: 10px;
+  padding: 5px;
+  margin: 5px;
+}
+
+.default {
+  background-color: blue;
+  color : white;
+  border-radius: 10px;
+  padding: 5px;
+  margin: 5px;
+}
